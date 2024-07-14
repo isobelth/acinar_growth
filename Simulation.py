@@ -593,7 +593,7 @@ class Simulation:
         A_eq_star_scaling,
         volume_scaling=0.1,
         write_results=False,
-        write_path="C:\\Users\\Tom\\Documents\\Bel PhD\\Bel_Simulation\\outputs",
+        write_path="C:\\Simulation\\outputs",
         run_number=0,
         alter='all',
         max_reset_count=10
